@@ -1,0 +1,6 @@
+It's not going to work until the GC compatibility issue 
+will be solved (somehow, not sure that it's possible, 
+though).  However, you can use it as a template for 
+your own widget plugin (just remove the MacRuby stuff).
+
+--white@
