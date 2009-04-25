@@ -1,0 +1,295 @@
+// !$*UTF8*$!
+{
+	0259C573FE90428111CA0C5A /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeTarget = 8D1AC9600486D14A00FE50C9 /* RubyWidgetPlugin */;
+		addToTargets = (
+			8D1AC9600486D14A00FE50C9 /* RubyWidgetPlugin */,
+		);
+		codeSenseManager = 1FF376550FA2559B00F2BEF9 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					883,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					881,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Target_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					993,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					158,
+					825,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					953,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 262389558;
+			PBXWorkspaceStateSaveDate = 262389558;
+		};
+		perUserProjectItems = {
+			1F4B8C1F0FA263580063C01A /* PlistBookmark */ = 1F4B8C1F0FA263580063C01A /* PlistBookmark */;
+			1F4B8C230FA263580063C01A /* PBXTextBookmark */ = 1F4B8C230FA263580063C01A /* PBXTextBookmark */;
+			1F79DACC0FA3BF6E001172DE /* PBXTextBookmark */ = 1F79DACC0FA3BF6E001172DE /* PBXTextBookmark */;
+			1FCD1A3B0FA3B57B00CE3291 /* PlistBookmark */ = 1FCD1A3B0FA3B57B00CE3291 /* PlistBookmark */;
+			1FCD1A750FA3BC8E00CE3291 /* PBXTextBookmark */ = 1FCD1A750FA3BC8E00CE3291 /* PBXTextBookmark */;
+			1FCD1A910FA3BD5500CE3291 /* PBXTextBookmark */ = 1FCD1A910FA3BD5500CE3291 /* PBXTextBookmark */;
+			1FCD1A9A0FA3BE1D00CE3291 /* PBXTextBookmark */ = 1FCD1A9A0FA3BE1D00CE3291 /* PBXTextBookmark */;
+			1FCD1A9F0FA3BEB900CE3291 /* PBXTextBookmark */ = 1FCD1A9F0FA3BEB900CE3291 /* PBXTextBookmark */;
+			1FF3766D0FA256C300F2BEF9 /* PBXTextBookmark */ = 1FF3766D0FA256C300F2BEF9 /* PBXTextBookmark */;
+			1FF3766E0FA256C300F2BEF9 /* PBXTextBookmark */ = 1FF3766E0FA256C300F2BEF9 /* PBXTextBookmark */;
+			1FF3766F0FA256C300F2BEF9 /* PBXTextBookmark */ = 1FF3766F0FA256C300F2BEF9 /* PBXTextBookmark */;
+			1FF5D60C0FA3AB4700F11C31 /* PBXTextBookmark */ = 1FF5D60C0FA3AB4700F11C31 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 1FF376540FA2559B00F2BEF9 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	0259C576FE90428111CA0C5A /* RubyWidgetPlugin.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 1232}}";
+			sepNavSelRange = "{2405, 0}";
+			sepNavVisRange = "{1701, 1092}";
+			sepNavWindowFrame = "{{38, 294}, {750, 558}}";
+		};
+	};
+	0259C57AFE90428111CA0C5A /* RubyWidgetPlugin.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 520}}";
+			sepNavSelRange = "{275, 42}";
+			sepNavVisRange = "{0, 325}";
+			sepNavWindowFrame = "{{15, 315}, {750, 558}}";
+		};
+	};
+	1F4B8C1F0FA263580063C01A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1AC9730486D14A00FE50C9 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleExecutable,
+		);
+		name = /Users/white/repo/RubyWidgetPlugin/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	1F4B8C230FA263580063C01A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32DBCF980370C29C00C91783 /* RubyWidget_Prefix.pch */;
+		name = "RubyWidget_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 188;
+		vrLoc = 0;
+	};
+	1F79DACC0FA3BF6E001172DE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0259C576FE90428111CA0C5A /* RubyWidgetPlugin.m */;
+		name = "RubyWidgetPlugin.m: 70";
+		rLen = 0;
+		rLoc = 2405;
+		rType = 0;
+		vrLen = 1092;
+		vrLoc = 1701;
+	};
+	1FCD1A3B0FA3B57B00CE3291 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1AC9730486D14A00FE50C9 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			WebPluginDescription,
+		);
+		name = /Users/white/repo/RubyWidgetPlugin/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	1FCD1A750FA3BC8E00CE3291 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0259C57AFE90428111CA0C5A /* RubyWidgetPlugin.h */;
+		name = "RubyWidgetPlugin.h: 16";
+		rLen = 42;
+		rLoc = 275;
+		rType = 0;
+		vrLen = 325;
+		vrLoc = 0;
+	};
+	1FCD1A910FA3BD5500CE3291 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8D1AC97B0486D23100FE50C9 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 97;
+		vrLoc = 0;
+	};
+	1FCD1A9A0FA3BE1D00CE3291 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32DBCF980370C29C00C91783 /* RubyWidget_Prefix.pch */;
+		name = "RubyWidget_Prefix.pch: 2";
+		rLen = 0;
+		rLoc = 98;
+		rType = 0;
+		vrLen = 194;
+		vrLoc = 0;
+	};
+	1FCD1A9F0FA3BEB900CE3291 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0259C576FE90428111CA0C5A /* RubyWidgetPlugin.m */;
+		name = "RubyWidgetPlugin.m: 70";
+		rLen = 0;
+		rLoc = 2405;
+		rType = 0;
+		vrLen = 1011;
+		vrLoc = 1782;
+	};
+	1FF376540FA2559B00F2BEF9 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	1FF376550FA2559B00F2BEF9 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1FF3766D0FA256C300F2BEF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0259C57AFE90428111CA0C5A /* RubyWidgetPlugin.h */;
+		name = "RubyWidgetPlugin.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 253;
+		vrLoc = 0;
+	};
+	1FF3766E0FA256C300F2BEF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0259C576FE90428111CA0C5A /* RubyWidgetPlugin.m */;
+		name = "RubyWidgetPlugin.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 429;
+		vrLoc = 0;
+	};
+	1FF3766F0FA256C300F2BEF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8D1AC97B0486D23100FE50C9 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 97;
+		vrLoc = 0;
+	};
+	1FF5D60C0FA3AB4700F11C31 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FF5D60D0FA3AB4700F11C31 /* Cocoa.h */;
+		name = "Cocoa.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 485;
+		vrLoc = 0;
+	};
+	1FF5D60D0FA3AB4700F11C31 /* Cocoa.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = Cocoa.h;
+		path = /System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h;
+		sourceTree = "<absolute>";
+	};
+	32DBCF980370C29C00C91783 /* RubyWidget_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 520}}";
+			sepNavSelRange = "{98, 0}";
+			sepNavVisRange = "{0, 194}";
+		};
+	};
+	8D1AC9600486D14A00FE50C9 /* RubyWidgetPlugin */ = {
+		activeExec = 0;
+	};
+	8D1AC97B0486D23100FE50C9 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 520}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 97}";
+		};
+	};
+}
